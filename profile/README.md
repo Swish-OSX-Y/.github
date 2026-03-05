@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://appstorrent.ru/uploads/posts/2023-09/1694605532_3.webp" width="800"/> 
+  <img src="https://store.setapp.com/cdn-cgi/image/width=1200,quality=75,format=auto/app/403/screenshots/1685882869-647c87f58b6a8.png" width="800"/> 
 </div>
 
 ---
